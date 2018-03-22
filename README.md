@@ -12,8 +12,6 @@ Develop base on layabox by TypeScript
 贪吃蛇小作战，pc端使用空格键加速
 基于layabox开发，开发语言是TypeScript
 
-Made by lanbomo
-
 ## todo
 - [x] 开始界面
 - [x] 控制界面
